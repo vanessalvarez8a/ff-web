@@ -1,4 +1,4 @@
-# frontendfoxes-website
+# frontendfoxes-website 🦊
 
 ## Project setup
 ```
